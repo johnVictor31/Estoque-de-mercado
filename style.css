@@ -1,0 +1,71 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+
+}
+
+#wrap input{
+    border-radius: 5px;
+    width: 30%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#botao, #saida, #wrap{
+    margin-top: 53px;
+    text-align: center;
+    /*border: 1px solid black;*/
+    border-radius: 20px;
+    padding: 1%;
+    background-color: rgb(173, 173, 173);
+    margin-right: 22%;
+    margin-left: 25%;
+    width: 50%;
+    height: 100%;
+    
+    
+}
+
+button{
+    width: 30%;
+    height: 35px;
+    background-color:rgb(0, 95, 139);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover, tr:hover{
+    background-color:yellow;
+    color: black;
+}
+
+#saida input{
+    height: 20px;
+    width: 20px;
+}
+
+table{
+    border: solid black;
+    border-radius: 10px;
+    background-color: rgb(173, 173, 173);
+    color: rgb(0, 0, 0);
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 2%;
+}
+
+td{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: white;
+}
+body{
+    background-color: black;
+    display:inline;
+    height: 20px;
+}
+#bt{
+    margin-top: 3%;
+}
